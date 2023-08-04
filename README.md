@@ -1,1 +1,1 @@
-# odin-recipes
+This project is for my first webpage which entails a series of recipes across various pages which can all be accessed via links on the index page. On the recipe pages, I've included photographs, ordered lists for the steps of the recipes and unordered lists for the ingredients, as well as a list of links on the index page.
